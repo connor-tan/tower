@@ -1,0 +1,3 @@
+com.fanttec.system.api.factory.RemoteUserFallbackFactory
+com.fanttec.system.api.factory.RemoteLogFallbackFactory
+com.fanttec.system.api.factory.RemoteFileFallbackFactory

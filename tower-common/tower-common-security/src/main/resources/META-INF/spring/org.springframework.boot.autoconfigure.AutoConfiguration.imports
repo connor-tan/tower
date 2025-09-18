@@ -1,0 +1,5 @@
+com.fanttec.common.security.config.WebMvcConfig
+com.fanttec.common.security.service.TokenService
+com.fanttec.common.security.aspect.PreAuthorizeAspect
+com.fanttec.common.security.aspect.InnerAuthAspect
+com.fanttec.common.security.handler.GlobalExceptionHandler

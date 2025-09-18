@@ -1,0 +1,2 @@
+com.fanttec.common.log.service.AsyncLogService
+com.fanttec.common.log.aspect.LogAspect

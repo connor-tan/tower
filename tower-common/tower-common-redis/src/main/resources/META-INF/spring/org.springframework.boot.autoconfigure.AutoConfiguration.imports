@@ -1,0 +1,2 @@
+com.fanttec.common.redis.configure.RedisConfig
+com.fanttec.common.redis.service.RedisService
